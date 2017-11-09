@@ -104,4 +104,4 @@ For the following questions, answer them for a segment of data on a date. (Pick 
 7) Evaluate the model.
 	•      Model has R2 of 0.76 on test data.
 
-	![alt_text][image8]
+![alt_text][image8]
