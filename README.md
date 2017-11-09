@@ -104,3 +104,9 @@ For the following questions, answer them for a segment of data on a date. (Pick 
 	•      Model has R2 of 0.76 on test data.
 
 ![alt_text][image8]
+
+
+## Observations:
+	1. Linear model can explain downloads to an accuracy of 76% -- Model restricted to 'DaysLapsed' and 'Ranking'.
+	2. Predictions error-variance is high for top-50 ranked App downloads -- Downloads for top-50 apps are exponential.
+	3. Ln(lambda*HmeanRank) would be interesting proposition to try for Accuracy improvement.
