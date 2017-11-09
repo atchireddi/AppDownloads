@@ -5,13 +5,12 @@ Predict App downloads based on AppStore Rankings
 [//]: # (Image References)
 [image1]: ./output/SenseTower_1.png
 [image2]: ./output/SenseTower_2.png
-[image2]: ./output/SenseTower_3.png
-[image3]: ./output/SenseTower_4.png
-[image4]: ./output/SenseTower_5.png
-[image5]: ./output/SenseTower_6.png
-[image6]: ./output/SenseTower_7.png
-[image7]: ./output/SenseTower_8.png
-[image8]: ./output/ActualVsPredicted.png
+[image3]: ./output/SenseTower_3.png
+[image4]: ./output/SenseTower_4.png
+[image5]: ./output/SenseTower_5.png
+[image6]: ./output/SenseTower_6.png
+[image7]: ./output/SenseTower_7.png
+[image8]: ./output/ActualVsPredicted.PNG
 
 1) What are your initial observations about the ranking and download datasets?
 	
