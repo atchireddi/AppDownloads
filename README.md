@@ -10,7 +10,7 @@ Predict App downloads based on AppStore Rankings
 [image4]: ./output/SenseTower_5.png
 [image5]: ./output/SenseTower_6.png
 [image6]: ./output/SenseTower_7.png
-[image7]: ./output/SenseTower_7.png
+[image7]: ./output/SenseTower_8.png
 [image8]: ./output/ActualVsPredicted.png
 
 1) What are your initial observations about the ranking and download datasets?
@@ -41,14 +41,14 @@ Predict App downloads based on AppStore Rankings
 		○ Interestingly, for most of days, ranking data at 16th and 20th hour was missing for GB region. 
 		○ Daily, equal number of data points were gathered for iPad and iPhone.
 
-		![alt_text][image1]
+	![alt_text][image1]
 		
 		○ Observing a sample of 100 Apps, only a fraction of Apps appear in Top-400 list on both devices.
 			§ An inference would be, either some Apps were built for both iPad and iPhone, (or)
 			§ Some Apps were popular on iPhone or vice-versa.
 		○ More or less, Apps has proportional presence across 3 regions.
 	
-		![alt_text][image2]
+	![alt_text][image2]
 		
 	Downloads Dataset:
 		
@@ -57,9 +57,9 @@ Predict App downloads based on AppStore Rankings
 		○ 56% of total downloads happen on iPhone from USA region.
 		○ Upward download trend is observed over two week monitoring period.
 		
-		![alt_text][image3]
+	![alt_text][image3]
 
-		![alt_text][image4]
+	![alt_text][image4]
 
 
 
@@ -76,7 +76,7 @@ For the following questions, answer them for a segment of data on a date. (Pick 
 	• To start with, I see downloads are inversely related to rank. Lower the rank higher the downloads.
 	• I would further investigate whether this relationship is kind of Linear/Log.
 
-	![alt_text][image5]
+![alt_text][image5]
 
 
 
@@ -87,9 +87,9 @@ For the following questions, answer them for a segment of data on a date. (Pick 
 	• Also, the sampled rank is hourly standings, Hmean is the appropriate central tendency we should be considering.  
 
 
-	![alt_text][image6]
+![alt_text][image6]
 	
-	![alt_text][image7]
+![alt_text][image7]
 
 
 
